@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aryan331277
-- 👀 I’m interested in AI/ML,DSA
+- 👀 Making 52 projects in 52 weeks
 - 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on various topics like Deep Learning,Machine Learning and Generative AI
 - 📫 How to reach me Linkedin-->https://www.linkedin.com/in/aryan-karmore-153085334/
