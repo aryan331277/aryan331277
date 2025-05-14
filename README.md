@@ -36,7 +36,7 @@
 - **Deep Learning**: PyTorch, TensorFlow, Keras
 - **NLP**: Transformers, HuggingFace, Gemini API
 - **Computer Vision**: OpenCV, PIL, Grad-CAM
-- **Deployment**: Streamlit, Flask, Docker
+- **Deployment**: Streamlit, Flask
 - **Data Tools**: Pandas, NumPy, Scikit-learn, Polars, Vaex
 - **Cloud**: Google Earth Engine, OpenStreetMap APIs
 - **Other**: n8n, PowerBI, Snowflake
