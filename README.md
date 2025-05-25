@@ -1,9 +1,4 @@
 # 👋 Hey there! I'm Aryan
-### 🔥 First-Year Student | Self-Taught AI Builder  
-
-🚀 Built 52+ projects in just one year — from transformers to time series, computer vision to cybersecurity, and even EEG-based brain decoding.  
-🎯 Passionate about **AI for good**, **neurotech**, and pushing the limits of what solo builders can achieve.  
-
 
 
 ## 🧪 Full Project List (Mini Projects Series)
