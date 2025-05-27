@@ -21,6 +21,7 @@
 | 14 | [Custom Transformer – Mewto v1](...) |
 | 15 | [Ocean Pollution Detection (Sentinal)](...) |
 | 16 | [EEG-to-Word Decoder + Dream Decoding](...) |
+| 17 | [Jailbreak Evaluator and Mitigator](...) |
 
 🔗 Full list and repo links coming soon!
 
