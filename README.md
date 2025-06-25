@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Aryan
 
 
-## 🧪 Full Project List (Mini Projects Series)
+## 🧪 Full Project List 
 
 | # | Project Title |
 |---|----------------|
@@ -22,6 +22,8 @@
 | 15 | [Ocean Pollution Detection (Sentinal)](...) |
 | 16 | [EEG-to-Word Decoder + Dream Decoding](...) |
 | 17 | [Jailbreak Evaluator and Mitigator](...) |
+| 18 | [LLM reasoning evaluator](...) |
+| 19 | [](...) |
 
 🔗 Full list and repo links coming soon!
 
