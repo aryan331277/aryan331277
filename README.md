@@ -23,7 +23,7 @@
 | 16 | [EEG-to-Word Decoder + Dream Decoding](...) |
 | 17 | [Jailbreak Evaluator and Mitigator](...) |
 | 18 | [LLM reasoning evaluator](...) |
-| 19 | [](...) |
+| 19 | [RAG system with FAISS sentence transformers](...) |
 
 🔗 Full list and repo links coming soon!
 
