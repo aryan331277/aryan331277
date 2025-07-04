@@ -25,6 +25,7 @@
 | 18 | [LLM reasoning evaluator](...) |
 | 19 | [RAG system with FAISS sentence transformers](...) |
 | 20 | [Q-RAG,a RAG system for quant finance](...) |
+| 21 | [Volatility risk pipeline using GARCH+EVT+VaR backtesting](...) |
 
 
 🔗 Full list and repo links coming soon!
