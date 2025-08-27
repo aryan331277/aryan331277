@@ -30,7 +30,7 @@
 | 24 | [DQN Financial](...) |
 | 25 | [CMEs-detection,classification](...) |
 | 26 | [U-Net based diffusion for spectograms:DDPM-SpecAD](...) |
-| 27 | [The first benchmark designed to evaluate an LLM's ability to generate audience-adaptive medical explanations for diverse stakeholders, including physicians, nurses, and patients.](...) |
+| 27 | [The first benchmark designed to test an LLM’s ability to generate risk-aware financial explanations for retail investors, institutional analysts, and regulators..](...) |
 | 28 | [gnn](...) |
 
 
