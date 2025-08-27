@@ -26,6 +26,9 @@
 | 19 | [RAG system with FAISS sentence transformers](...) |
 | 20 | [Q-RAG,a RAG system for quant finance](...) |
 | 21 | [Volatility risk pipeline using GARCH+EVT+VaR backtesting](...) |
+| 22 | [Parabolic SAR](...) |
+| 24 | [DQN Financial](...) |
+| 25 | [CMEs-detection,classification](...) |
 
 
 
