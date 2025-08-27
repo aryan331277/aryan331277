@@ -29,6 +29,7 @@
 | 22 | [Parabolic SAR](...) |
 | 24 | [DQN Financial](...) |
 | 25 | [CMEs-detection,classification](...) |
+| 26 | [U-Net based diffusion for spectograms:DDPM-SpecAD](...) |
 
 
 
